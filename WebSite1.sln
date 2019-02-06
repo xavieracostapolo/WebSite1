@@ -25,13 +25,22 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite1(1)", "WebSite1\", 
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{BACE57C3-1897-4CC9-B82C-ABDC0269EF6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{47B29631-7133-46A2-B2C9-89AD18638FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{47B29631-7133-46A2-B2C9-89AD18638FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B29631-7133-46A2-B2C9-89AD18638FDC}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B29631-7133-46A2-B2C9-89AD18638FDC}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{BACE57C3-1897-4CC9-B82C-ABDC0269EF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACE57C3-1897-4CC9-B82C-ABDC0269EF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACE57C3-1897-4CC9-B82C-ABDC0269EF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACE57C3-1897-4CC9-B82C-ABDC0269EF6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
